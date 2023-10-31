@@ -1,0 +1,24 @@
+
+.top{
+    background-color: rgb(19, 4, 87);
+    height: 100vh;
+}
+.row{
+    --bs-gutter-x: 0 !important;
+
+}
+.text{
+    padding-left: 35%;
+    background-color: rgb(19, 4, 87);
+    color: white;
+}
+h6{
+    color: yellow;
+
+}
+h2{
+    text-align: center;
+}
+.items{
+    margin-left: 750px;
+}
